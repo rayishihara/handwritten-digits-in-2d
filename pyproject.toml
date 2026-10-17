@@ -1,5 +1,5 @@
 [project]
-name = "digits"
+name = "reducers"
 version = "0.1.0"
 description = "Dimensionality reduction on handwritten digits"
 readme = "README.md"
